@@ -1,0 +1,94 @@
+::1 - - [12/Jan/2023:17:15:24 +0100] "GET / HTTP/1.1" 200 46
+::1 - - [12/Jan/2023:17:15:24 +0100] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [12/Jan/2023:17:16:24 +0100] "-" 408 -
+::1 - - [12/Jan/2023:17:23:39 +0100] "GET / HTTP/1.1" 304 -
+::1 - - [12/Jan/2023:17:23:42 +0100] "GET / HTTP/1.1" 304 -
+::1 - - [12/Jan/2023:17:23:57 +0100] "GET /wordpress HTTP/1.1" 301 240
+::1 - - [12/Jan/2023:17:23:57 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [12/Jan/2023:17:24:57 +0100] "-" 408 -
+::1 - - [13/Jan/2023:08:44:46 +0100] "GET /wordpress HTTP/1.1" 301 240
+::1 - - [13/Jan/2023:08:44:46 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:08:44:46 +0100] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [13/Jan/2023:08:44:55 +0100] "GET /wordpress/index.php HTTP/1.1" 200 405
+::1 - - [13/Jan/2023:08:45:01 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:08:45:08 +0100] "GET / HTTP/1.1" 200 46
+::1 - - [13/Jan/2023:08:46:08 +0100] "-" 408 -
+::1 - - [13/Jan/2023:09:25:00 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:09:26:00 +0100] "-" 408 -
+::1 - - [13/Jan/2023:10:06:57 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:07:06 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:08:06 +0100] "-" 408 -
+::1 - - [13/Jan/2023:10:18:42 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:18:55 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:18:55 +0100] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [13/Jan/2023:10:19:35 +0100] "-" 408 -
+::1 - - [13/Jan/2023:10:23:57 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+127.0.0.1 - - [13/Jan/2023:10:25:04 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+127.0.0.1 - - [13/Jan/2023:10:25:05 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+127.0.0.1 - - [13/Jan/2023:10:25:08 +0100] "GET / HTTP/1.1" 200 46
+::1 - - [13/Jan/2023:10:26:51 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:26:59 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:27:51 +0100] "-" 408 -
+::1 - - [13/Jan/2023:10:31:52 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:54 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:55 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:55 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:56 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:56 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:56 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:31:56 +0100] "GET /wordpress/ HTTP/1.1" 200 1220
+::1 - - [13/Jan/2023:10:32:17 +0100] "GET /wordpress/ HTTP/1.1" 302 -
+::1 - - [13/Jan/2023:10:32:18 +0100] "GET /wordpress/ HTTP/1.1" 302 -
+::1 - - [13/Jan/2023:10:32:17 +0100] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 200 2971
+::1 - - [13/Jan/2023:10:32:18 +0100] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 200 2971
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-includes/css/buttons.min.css?ver=6.1.1 HTTP/1.1" 200 5854
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-admin/css/install.min.css?ver=6.1.1 HTTP/1.1" 200 4954
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.1 HTTP/1.1" 200 89684
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-admin/css/l10n.min.css?ver=6.1.1 HTTP/1.1" 200 2477
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-admin/js/language-chooser.min.js?ver=6.1.1 HTTP/1.1" 200 423
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/1.1" 200 11224
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-includes/css/dashicons.min.css?ver=6.1.1 HTTP/1.1" 200 59016
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-admin/css/forms.min.css?ver=6.1.1 HTTP/1.1" 200 26233
+::1 - - [13/Jan/2023:10:32:21 +0100] "GET /wordpress/wp-admin/images/wordpress-logo.svg?ver=20131107 HTTP/1.1" 200 1521
+::1 - - [13/Jan/2023:11:05:48 +0100] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 200 2971
+::1 - - [13/Jan/2023:11:10:31 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1&language=es_ES HTTP/1.1" 200 3658
+::1 - - [13/Jan/2023:11:10:48 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:11:26 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:14:27 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1&language=es_ES HTTP/1.1" 200 3658
+::1 - - [13/Jan/2023:11:14:39 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:14:56 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/ HTTP/1.1" 302 -
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 200 2971
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-includes/css/dashicons.min.css?ver=6.1.1 HTTP/1.1" 200 59016
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-includes/css/buttons.min.css?ver=6.1.1 HTTP/1.1" 200 5854
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-admin/css/forms.min.css?ver=6.1.1 HTTP/1.1" 200 26233
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-admin/css/l10n.min.css?ver=6.1.1 HTTP/1.1" 200 2477
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-admin/css/install.min.css?ver=6.1.1 HTTP/1.1" 200 4954
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-admin/js/language-chooser.min.js?ver=6.1.1 HTTP/1.1" 200 423
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/1.1" 200 11224
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.1 HTTP/1.1" 200 89684
+::1 - - [13/Jan/2023:11:26:17 +0100] "GET /wordpress/wp-admin/images/wordpress-logo.svg?ver=20131107 HTTP/1.1" 200 1521
+::1 - - [13/Jan/2023:11:26:20 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1&language=es_ES HTTP/1.1" 200 3658
+::1 - - [13/Jan/2023:11:27:08 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:27:14 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1&language=es_ES HTTP/1.1" 200 3658
+::1 - - [13/Jan/2023:11:27:35 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:28:35 +0100] "-" 408 -
+::1 - - [13/Jan/2023:11:37:30 +0100] "GET /wordpress/ HTTP/1.1" 302 -
+::1 - - [13/Jan/2023:11:37:30 +0100] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 200 2971
+::1 - - [13/Jan/2023:11:37:35 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1&language=es_ES HTTP/1.1" 200 3658
+::1 - - [13/Jan/2023:11:38:23 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:39:23 +0100] "-" 408 -
+::1 - - [13/Jan/2023:11:40:20 +0100] "GET /wordpress/ HTTP/1.1" 302 -
+::1 - - [13/Jan/2023:11:40:20 +0100] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 200 2971
+::1 - - [13/Jan/2023:11:40:24 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1&language=es_ES HTTP/1.1" 200 3658
+::1 - - [13/Jan/2023:11:40:38 +0100] "POST /wordpress/wp-admin/setup-config.php?step=2 HTTP/1.1" 500 2728
+::1 - - [13/Jan/2023:11:41:38 +0100] "-" 408 -
+::1 - - [15/Jan/2023:19:20:46 +0100] "GET /wordpress/ HTTP/1.1" 500 3590
+::1 - - [15/Jan/2023:19:20:47 +0100] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [15/Jan/2023:19:20:48 +0100] "GET /wordpress/ HTTP/1.1" 500 3590
+::1 - - [15/Jan/2023:19:20:57 +0100] "GET /wordpress/ HTTP/1.1" 500 3590
+::1 - - [15/Jan/2023:19:21:57 +0100] "-" 408 -
+::1 - - [15/Jan/2023:19:22:04 +0100] "GET /wordpress/ HTTP/1.1" 500 2552
+::1 - - [15/Jan/2023:19:22:09 +0100] "GET /wordpress/ HTTP/1.1" 500 2552
+::1 - - [15/Jan/2023:19:23:09 +0100] "-" 408 -
+::1 - - [15/Jan/2023:20:01:00 +0100] "-" 408 -
